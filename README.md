@@ -4,6 +4,9 @@
 
 This project is designed to analyze and gain insights into employee presence metrics, focusing on key indicators such as overall presence percentage, work-from-home (WFH) percentage, and sick leave (SL) percentage. The analysis includes detailed breakdowns of days-wise presence, days-wise WFH, and days-wise SL percentages. The entire data processing pipeline is implemented using Microsoft Power Query with a significant emphasis on Data Analysis Expressions (DAX) functions.
 
+![image](https://github.com/BalaKrishnan1807/PowerBI_projects/assets/154660199/1b89c965-dc89-47b9-a431-eb89e3772a41)
+
+
 [Overall Metrics](#Overall-Metrics)
 
 [Days-Wise Metrics](#Days-Wise-Metrics)
